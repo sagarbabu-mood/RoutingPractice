@@ -1,0 +1,16 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  width: 200px;
+}
+
+.not-found-paragraph {
+  font-size: 26px;
+  color: #555555;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

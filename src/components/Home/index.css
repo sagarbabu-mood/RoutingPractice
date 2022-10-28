@@ -1,0 +1,16 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-image {
+  width: 150px;
+}
+
+.home-paragraph {
+  font-size: 26px;
+  color: #555555;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

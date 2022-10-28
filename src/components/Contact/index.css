@@ -1,0 +1,16 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-image {
+  width: 150px;
+}
+
+.contact-paragraph {
+  font-size: 18px;
+  color: #555555;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
